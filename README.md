@@ -1,4 +1,4 @@
-# vect2
+# VECT2
 
 A simple 2D vector class in C++.
 
