@@ -63,8 +63,8 @@ int main()
 ## Compile
 
 ```bash
-c++ -o test main.cpp vect2.cpp
-./test
+c++ -Wall -Wextra -Werror main.cpp vect2.cpp -o program
+./program
 ```
 
 ## What works
